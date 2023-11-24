@@ -19,5 +19,5 @@ mod 'puppetlabs-vcsrepo', '2.3.0'
 mod 'puppetlabs-apache', '3.1.0'
 mod 'puppetlabs-docker', '3.5.0'
 mod 'pltraining-dockeragent'
-mod 'samuelson-elk', :git => 'https://github.com/samuelson/elk.git',
+mod 'joshsamuelson-elk', :git => 'https://github.com/samuelson/elk.git',
                      :branch => 'master'
